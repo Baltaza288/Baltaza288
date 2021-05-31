@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Baltaza288
+- 👀 I’m interested in make things with Arduino and RasPi
+- 🌱 I’m currently learning Python
