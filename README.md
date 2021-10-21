@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Baltaza288
-- 👀 I’m interested in cyber security and to make things with Arduino and RasPi
-- 🌱 I’m currently learning Python and penetration testing
+- 👀 I’m interested in cyber security, 3d printing and making things with Arduino and RasPi
+- 🌱 Currently I am trying to learn Python
